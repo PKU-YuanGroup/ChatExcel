@@ -1,6 +1,6 @@
 # ChatExcel
-## Link
-https://chatexcel.com/
+## Website
+- https://chatexcel.com/
 
 ## Staff
 - Kun-Peng Ning, https://ningkp.github.io/
